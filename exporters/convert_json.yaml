@@ -1,0 +1,3 @@
+exporter_name: covert_json # Must be unique
+exporter_type: json
+collection: listings

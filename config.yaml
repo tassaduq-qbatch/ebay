@@ -5,3 +5,6 @@ parsers:
   - page_type: listings
     file: ./parsers/listings.rb
     disabled: false
+exporters:
+ - file: ./exporters/convert_json.yaml
+   disabled: false
