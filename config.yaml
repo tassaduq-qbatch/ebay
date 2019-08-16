@@ -7,4 +7,4 @@ parsers:
     disabled: false
 exporters:
  - file: ./exporters/convert_json.yaml
-   disabled: true
+   disabled: false
