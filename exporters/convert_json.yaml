@@ -1,3 +1,4 @@
-exporter_name: covert_json # Must be unique
+exporter_name: convert_json # Must be unique
 exporter_type: json
 collection: listings
+write_mod: pretty_array
